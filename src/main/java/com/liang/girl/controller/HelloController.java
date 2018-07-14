@@ -1,5 +1,6 @@
-package com.liang.girl;
+package com.liang.girl.controller;
 
+import com.liang.girl.properties.GirlProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
